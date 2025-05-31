@@ -46,6 +46,7 @@ Examples of high-impact events include:
 ## 📬 Contact
 
 For more information or collaboration inquiries, please contact the repository maintainer:
+
 **Email:** arad.zehni@gmail.com
 
 ---
